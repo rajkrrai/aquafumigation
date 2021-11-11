@@ -10,7 +10,7 @@ const Navbar = () => {
         <ul>
           <li>
             <i></i>
-            <a className="navlinks" href="/">
+            <a className="navlinks" href="/aquafumigation">
               Home
             </a>
             {/* <NavLink to="/" activeClassName="selectedLink">

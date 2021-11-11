@@ -14,7 +14,7 @@ function App() {
       <div className="container">
         <Router>
           <Routes>
-            <Route exact path="/" element={<Homepage />} />
+            <Route exact path="/aquafumigation" element={<Homepage />} />
 
             <Route path="/ispm-countries" element={<Ispmcountries />} />
             <Route path="/faqs" element={<Faq />} />
