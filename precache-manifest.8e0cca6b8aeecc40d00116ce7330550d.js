@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b419d1bf28a30e6eedd06a858633833",
+    "revision": "8ef5ed39a1b8e62386bb375c8a88d288",
     "url": "/aquafumigation/index.html"
   },
   {
-    "revision": "172c6bd5d6cfc4e681d4",
+    "revision": "f818601f07f282d50eb5",
     "url": "/aquafumigation/static/css/main.56d66fdc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aquafumigation/static/js/2.ffa1b988.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "172c6bd5d6cfc4e681d4",
-    "url": "/aquafumigation/static/js/main.437bfb55.chunk.js"
+    "revision": "f818601f07f282d50eb5",
+    "url": "/aquafumigation/static/js/main.b6b0ed5b.chunk.js"
   },
   {
     "revision": "a73e78511a2f76924a7f",

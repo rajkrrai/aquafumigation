@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aquafumigation/precache-manifest.8b2367efe3c538dd99797faba1b10343.js"
+  "/aquafumigation/precache-manifest.8e0cca6b8aeecc40d00116ce7330550d.js"
 );
 
 self.addEventListener('message', (event) => {
