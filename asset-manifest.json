@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/aquafumigation/static/css/main.56d66fdc.chunk.css",
+    "main.js": "/aquafumigation/static/js/main.437bfb55.chunk.js",
+    "main.js.map": "/aquafumigation/static/js/main.437bfb55.chunk.js.map",
+    "runtime-main.js": "/aquafumigation/static/js/runtime-main.9de141d4.js",
+    "runtime-main.js.map": "/aquafumigation/static/js/runtime-main.9de141d4.js.map",
+    "static/js/2.ffa1b988.chunk.js": "/aquafumigation/static/js/2.ffa1b988.chunk.js",
+    "static/js/2.ffa1b988.chunk.js.map": "/aquafumigation/static/js/2.ffa1b988.chunk.js.map",
+    "index.html": "/aquafumigation/index.html",
+    "precache-manifest.8b2367efe3c538dd99797faba1b10343.js": "/aquafumigation/precache-manifest.8b2367efe3c538dd99797faba1b10343.js",
+    "service-worker.js": "/aquafumigation/service-worker.js",
+    "static/css/main.56d66fdc.chunk.css.map": "/aquafumigation/static/css/main.56d66fdc.chunk.css.map",
+    "static/js/2.ffa1b988.chunk.js.LICENSE.txt": "/aquafumigation/static/js/2.ffa1b988.chunk.js.LICENSE.txt",
+    "static/media/corona4.jpg": "/aquafumigation/static/media/corona4.ae948b46.jpg",
+    "static/media/disinfectant1_n.jpg": "/aquafumigation/static/media/disinfectant1_n.455967ef.jpg",
+    "static/media/gopalkrishna.JPG": "/aquafumigation/static/media/gopalkrishna.147ea508.JPG",
+    "static/media/grainPesting.JPG": "/aquafumigation/static/media/grainPesting.675f8e6a.JPG",
+    "static/media/logistics2_n.jpg": "/aquafumigation/static/media/logistics2_n.d0d18f08.jpg",
+    "static/media/logoipsum-logo-4.svg": "/aquafumigation/static/media/logoipsum-logo-4.f366d049.svg",
+    "static/media/sviswanathan.JPG": "/aquafumigation/static/media/sviswanathan.145d2574.JPG",
+    "static/media/training.JPG": "/aquafumigation/static/media/training.5c8121ed.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9de141d4.js",
+    "static/js/2.ffa1b988.chunk.js",
+    "static/css/main.56d66fdc.chunk.css",
+    "static/js/main.437bfb55.chunk.js"
+  ]
+}
