@@ -361,43 +361,29 @@ tr:nth-child(2n):hover {
 }
 
 /* covid info section */
-.covid-section {
+.covid-body {
   position: relative;
 }
 .corona-img {
   width: 1000px;
   height: 500px;
-  position: relative;
+  border-radius: 10px;
   overflow: hidden;
-  margin: 20px;
-  background-image: linear-gradient(
-    rgba(116, 230, 22, 0.877),
-    rgba(85, 224, 171, 0.877)
-  );
 }
 
-.covid-infoText {
+.covid-text {
   position: absolute;
-  color: rgb(35, 32, 233);
-}
-
-.covid-body {
-  /* width: 80%; */
-  height: 100vh;
-  background: url("/src/img/corona4.jpg");
-  background-size: cover;
-  background-position: center;
-  /* display: flex; */
-  /* align-items: center; */
-  /* justify-content: center; */
-  color: rgb(222, 224, 222);
-  border-radius: 8px;
+  top: 10px;
+  left: 15px;
+  background-color: rgba(22, 21, 21, 0.404);
+  color: #beddf5;
+  width: 60%;
 }
 
 .covid-body p {
   background-color: rgba(27, 26, 26, 0.699);
   padding: 30px;
-  width: 70%;
+  /* width: 70%; */
   height: fit-content;
   line-height: 1.1;
   word-spacing: 1px;

@@ -88,53 +88,43 @@ const Homepage = () => {
           <i class="fas fa-shield-virus"></i> Covid Info
         </h1>
         <div className="covid-body">
-          {/* <p>
-            {" "}
-            Coronaviruses (CoV) are a large family of viruses that cause illness
-            ranging from the common cold to more severe diseases. Coronavirus
-            disease (COVID-2019) is an infectious disease caused by a new virus
-            that had not been previously identified in humans. The name
-            coronavirus is derived from the Latin corona, meaning "crown" or
-            "halo", which refers to the characteristic appearance of the virus
-            particles (virions). The virus causes respiratory illness (like the
-            flu) with symptoms such as a cough, fever and in more severe cases,
-            pneumonia.
-          </p> */}
+          <img src={corona4} alt="corona virus" className="corona-img" />
+          <div className="covid-text">
+            <p>
+              As of now, more than 250 M+ people have been infected with the new
+              Corona virus (COVID-2019) with approximately 5 M+ reported deaths.
+              China is the supposedly the epicenter of the infection that is
+              rapidly spreading to all parts of the world. Many importers and
+              traders are concerned with the spread of this deadly virus
+              infection through cargo imported in containers coming from the
+              infected countries including China and South Korea.
+            </p>
 
-          <p>
-            As of now, more than 250 M+ people have been infected with the new
-            Corona virus (COVID-2019) with approximately 5 M+ reported deaths.
-            China is the supposedly the epicenter of the infection that is
-            rapidly spreading to all parts of the world. Many importers and
-            traders are concerned with the spread of this deadly virus infection
-            through cargo imported in containers coming from the infected
-            countries including China and South Korea.
-          </p>
+            <p>
+              We offer a very powerful treatment for containers and cargo
+              suspected to be infected with the Corona Virus. The solutions we
+              provide are – <br />
+              <ul className="offer-list">
+                <li>
+                  <i className="far fa-check-circle"></i>Highly effective
+                  against all viruses, bacteria, fungi and other potentially
+                  disease-causing agents
+                </li>
+                <li>
+                  <i className="far fa-check-circle"></i>Safe for humans
+                </li>
 
-          <p>
-            We offer a very powerful treatment for containers and cargo
-            suspected to be infected with the Corona Virus. The solutions we
-            provide are – <br />
-            <ul className="offer-list">
-              <li>
-                <i className="far fa-check-circle"></i>Highly effective against
-                all viruses, bacteria, fungi and other potentially
-                disease-causing agents
-              </li>
-              <li>
-                <i className="far fa-check-circle"></i>Safe for humans
-              </li>
-
-              <li>
-                <i className="far fa-check-circle"></i>Non-corrosive, non-toxic,
-                non-carcinogenic
-              </li>
-              <li>
-                <i className="far fa-check-circle"></i>Environmentally safe as
-                it is bio-degradable
-              </li>
-            </ul>
-          </p>
+                <li>
+                  <i className="far fa-check-circle"></i>Non-corrosive,
+                  non-toxic, non-carcinogenic
+                </li>
+                <li>
+                  <i className="far fa-check-circle"></i>Environmentally safe as
+                  it is bio-degradable
+                </li>
+              </ul>
+            </p>
+          </div>
         </div>
       </section>
 
